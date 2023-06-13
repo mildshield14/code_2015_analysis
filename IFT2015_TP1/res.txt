@@ -1,0 +1,7 @@
+Truck position: (48.510458,-69.809061)
+Distance:0			Number of boxes:0		Position:(48.510458,-69.809061)
+Distance:221.5		Number of boxes:0		Position:(48.51088,-69.812)
+Distance:339.6		Number of boxes:0		Position:(48.513036,-69.806589)
+Distance:351.8		Number of boxes:0		Position:(48.513606,-69.809542)
+Distance:420.1		Number of boxes:0		Position:(48.511185,-69.803464)
+Distance:478.9		Number of boxes:32		Position:(48.514603,-69.810825)
