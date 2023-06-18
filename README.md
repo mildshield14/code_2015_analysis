@@ -1,13 +1,13 @@
 # code_2015_analysis
 
-We used 2 classes to perform the empiricala analysis of our code. 
+We used 2 classes to perform the empirical analysis of our code. 
 
 Namely, 
 
 A class that performed entry generation to test our code by filling in random data in file. A number is passed as argument 
-representing number of entry to be tested. We used it with a max of 50000 to test our code.
+representing number of entry to be tested. We used it with a max of 50000 to test our code based on a template provided by the teacher and teacher's assistant of course IFT2015 - Ete 2023.
 
-A class where duration of code execution and number of entries are passed as parameter and a graph is sketched. 
+A class where duration of code execution and number of entries are passed as parameters and a graph is sketched based on those data stored in ArrayLists throughtout execution. 
 JFreeChart has been used for that.
 
 Here is an example of output produced:
